@@ -1,7 +1,7 @@
-(assets/1.jpeg)
+![first image](assets/1.jpeg)
 
-(assets/2.jpeg)
+![second image](assets/2.jpeg)
 
-(assets/3.jpeg)
+![third image](assets/3.jpeg)
 
-(assets/4.jpeg)
+![fourth image](assets/4.jpeg)
